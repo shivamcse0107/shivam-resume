@@ -13,7 +13,7 @@
 ### Website Preview
 <p align="center"> 
   <kbd>
-    <a href="https://shivamcse0107.github.io/shivam-resume/" target="_blank"><img src="examples/preview.gif">
+    <a href="https://shivamcse0107.github.io/shivam-resume/" target="_blank"><img src="examples/website.png">
   </a>
   </kbd>
 </p>
